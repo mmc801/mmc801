@@ -24,3 +24,7 @@ Welcome to my GitHub! I'm an **aspiring Data Analyst** with a strong background 
 ## 📬 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/michelle-crawford-/) 
 - 📧 Email: michellecrawford840@gmail.com
+
+## 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=mmc801&show_icons=true&theme=default" alt="Michelle's GitHub stats" />
